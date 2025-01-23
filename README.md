@@ -55,9 +55,13 @@ Download the required model files from the following sources:
 ## Example
 ### Input
 A grayscale image of a landscape.
+![nature](https://github.com/user-attachments/assets/43c7f9bf-0a59-4ee4-88d1-e0e95be9618f)
+
 
 ### Output
 A colorized version of the input image.
+![image](https://github.com/user-attachments/assets/3916967c-9966-471f-891d-f5d8234bd110)
+
 
 ## Credits
 This project is based on the following resources:
